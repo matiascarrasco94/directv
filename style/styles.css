@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainSubscripcion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
